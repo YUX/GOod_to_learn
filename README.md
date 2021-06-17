@@ -4,6 +4,7 @@
 a personal "awesome-go" collection
 
 ## Total Beginner:
+- https://golang.org/doc/play/
 - https://github.com/roseduan/rosedb
 ## Intermediate Beginner:
 - https://github.com/gohugoio/hugo
