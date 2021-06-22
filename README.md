@@ -5,7 +5,7 @@ a personal "awesome-go" collection
 
 ## Total Beginner:
 - https://youtube.com/c/junminlee
-- http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
+- https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
 - https://golang.org/doc/play/
 - https://books.halfrost.com/leetcode/
 - https://github.com/roseduan/rosedb
