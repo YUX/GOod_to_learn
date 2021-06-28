@@ -5,6 +5,7 @@ a personal "awesome-go" collection
 
 ## Total Beginner:
 - https://youtube.com/c/junminlee
+- https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go
 - https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
 - https://golang.org/doc/play/
 - https://books.halfrost.com/leetcode/
